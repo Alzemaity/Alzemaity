@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/aalzemaity" target="blank"><img src="https://img.shields.io/twitter/follow/aalzemaity?logo=twitter&style=for-the-badge" alt="aalzemaity" /></a> </p>
 
-- 🌱 I’m currently passionate about **Data Engineering and Business Intelligence solutions.**
+- 🌱 I’m currently passionate about **Software Engineering and Artificial Intelligence solutions.**
 
 - 💬 Ask me about **Python and Digital marketing**
 
