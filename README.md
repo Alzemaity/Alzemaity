@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently passionate about **Software Engineering and Artificial Intelligence solutions.**
 
-- 💬 Ask me about **Python and Digital marketing**
+- 💬 Ask me about **Python and Odoo**
 
 - ⚡ Fun fact **I am on a diet, hide your burgers 🤤**
 
